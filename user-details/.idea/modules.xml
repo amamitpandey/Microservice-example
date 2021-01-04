@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/../api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../application-config-server/application-config-server.iml" filepath="$PROJECT_DIR$/../application-config-server/application-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../user-department/demo (1).iml" filepath="$PROJECT_DIR$/../user-department/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git-repo/git-repo.iml" filepath="$PROJECT_DIR$/../git-repo/git-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/../hystrix-dashboard/hystrix-dashboard.iml" />
+    </modules>
+  </component>
+</project>
